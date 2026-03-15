@@ -1,49 +1,49 @@
-# Welcome to Mimtopia! 🚀
+# Mimtopia에 오신 것을 환영합니다! 🚀
 
-**Mimtopia** is a dynamic and interactive platform dedicated to the world of memes. It serves as a digital playground where users can discover, create, and interact with the latest and greatest memes on the internet.
-
----
-
-## ✨ Core Features
-
-### 🖼️ Meme Lifecycle Management
-- **Discover:** Explore memes ranked by popularity or stay up-to-date with the most recent posts.
-- **Share:** Easily create and share your own memes with the community.
-- **Engage:** Interact with content through a robust "Like" system to support your favorite creators.
-
-### 👤 User Ecosystem
-- **Secure Authentication:** Seamless sign-up and login process with a custom session-based security system.
-- **Personalized Experience:** Manage your profile and keep track of the memes you've liked.
-
-### 📈 Dynamic Ranking
-- **Popularity-based Discovery:** A dedicated algorithm that surfaces memes based on community engagement (likes and views).
-- **Recency Filter:** Never miss a beat with a feed sorted by the latest uploads.
+**Mimtopia**는 밈(Meme)의 세계를 위한 역동적이고 인터랙티브한 플랫폼입니다. 사용자들이 인터넷의 최신 밈을 발견하고, 생성하며, 서로 소통할 수 있는 디지털 놀이터 역할을 합니다.
 
 ---
 
-## 🛠️ Technical Overview
+## ✨ 핵심 기능
 
-Mimtopia is built with a focus on scalability, security, and a RESTful design.
+### 🖼️ 밈 라이프사이클 관리
+- **발견:** 인기도순으로 정렬된 밈을 탐색하거나 최신 포스트를 실시간으로 확인하세요.
+- **공유:** 자신만의 밈을 커뮤니티에 쉽고 빠르게 공유할 수 있습니다.
+- **소통:** "좋아요" 시스템을 통해 좋아하는 크리에이터를 응원하고 콘텐츠에 참여하세요.
 
-- **Backend:** [Spring Boot](https://spring.io/projects/spring-boot) with **Java** for a robust and performant API.
-- **Data Persistence:** [JPA/Hibernate](https://hibernate.org/orm/) for efficient object-relational mapping.
-- **Security:** A custom, session-persistent authentication layer ensuring secure user interactions without the overhead of heavy frameworks.
-- **Architecture:** API-first design, making it ready for multi-platform integration (Web, Mobile, etc.).
+### 👤 사용자 생태계
+- **안전한 인증:** 커스텀 세션 기반 보안 시스템을 통한 간편한 회원가입 및 로그인 프로세스를 제공합니다.
+- **개인화된 경험:** 내 프로필을 관리하고 내가 좋아요를 누른 밈 목록을 확인할 수 있습니다.
 
----
-
-## 📂 Repository Structure
-
-- **[api](./api):** The core backend service providing RESTful endpoints for authentication, meme management, and community interactions.
-
----
-
-## 🚀 Get Started
-
-1. **Sign Up:** Create your unique identity on Mimtopia.
-2. **Explore:** Head over to the popularity feed to see what's trending.
-3. **Contribute:** Post your first meme and join the community!
+### 📈 동적 랭킹 시스템
+- **인기 기반 탐색:** 좋아요와 조회수 등 커뮤니티 참여도를 기반으로 한 알고리즘으로 트렌디한 밈을 보여줍니다.
+- **최신순 필터:** 가장 최근에 업로드된 피드를 통해 새로운 밈을 놓치지 마세요.
 
 ---
 
-*Mimtopia - The ultimate destination for meme enthusiasts.*
+## 🛠️ 기술 스택 및 아키텍처
+
+Mimtopia는 확장성, 보안, 그리고 RESTful 디자인에 중점을 두고 구축되었습니다.
+
+- **Backend:** [Spring Boot](https://spring.io/projects/spring-boot)와 **Java**를 사용한 견고하고 성능이 뛰어난 API.
+- **Data Persistence:** [JPA/Hibernate](https://hibernate.org/orm/)를 이용한 효율적인 객체 관계 매핑(ORM).
+- **Security:** 무거운 프레임워크 대신 가볍고 안전한 커스텀 세션 기반 인증 레이어 구현.
+- **Architecture:** API 우선 디자인으로 설계되어 웹, 모바일 등 다양한 플랫폼 통합이 가능합니다.
+
+---
+
+## 📂 저장소 구조
+
+- **[api](./api):** 인증, 밈 관리, 커뮤니티 상호작용을 위한 RESTful 엔드포인트를 제공하는 핵심 백엔드 서비스입니다.
+
+---
+
+## 🚀 시작하기
+
+1. **회원가입:** Mimtopia에서 나만의 정체성을 만드세요.
+2. **탐색:** 인기 피드에서 현재 어떤 밈이 유행인지 확인하세요.
+3. **참여:** 첫 번째 밈을 게시하고 커뮤니티의 일원이 되어보세요!
+
+---
+
+*Mimtopia - 밈 애호가들을 위한 최고의 목적지.*
