@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.svg" width="200" alt="Mimtopia Logo" />
+</p>
+
 # Mimtopia에 오신 것을 환영합니다! 🚀
 
 **Mimtopia**는 밈(Meme)의 세계를 위한 역동적이고 인터랙티브한 플랫폼입니다. 사용자들이 인터넷의 최신 밈을 발견하고, 생성하며, 서로 소통할 수 있는 디지털 놀이터 역할을 합니다.
