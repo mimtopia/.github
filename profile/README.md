@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo.svg" width="200" alt="Mimtopia Logo" />
+  <img src="./mimtopia_logo.png" width="200" alt="Mimtopia Logo" />
 </p>
 
 # Mimtopia에 오신 것을 환영합니다! 🚀
